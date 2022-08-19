@@ -1,4 +1,4 @@
-### Olá, bem-vindos ao meu github 👋
+### Olá, bem-vindos ao meu github 
 
 - 🔭 Estudante de Análise e desenvolvimento de sistemas
 - 😄 Apaixonado por programação
