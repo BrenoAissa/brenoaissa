@@ -74,7 +74,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=brenoaissa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=brenoaissa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoaissa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
 
