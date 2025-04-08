@@ -53,3 +53,29 @@
 </div>
 
 ###
+
+
+###
+
+<h2 align="left">Repositórios</h2>
+
+###
+
+<p align="left">📚 <a href="https://github.com/BrenoAissa/ChessGame">Chess Game</a> - O famoso jogo de xadrez criado em <b>C#</b> com o intuito de praticar e aprimorar meus conhecimentos em POO
+<br> 📚 <a href="https://github.com/BrenoAissa/desafio-dio-spring">Desafio dio Spring</a> - Explorar padrões de projetos utilizando a linguagem <b>Java</b>
+<br> 📚 <a href="https://github.com/BrenoAissa/CTruco">CTruco</a> - Participação em um projeto da faculdade com o intuito de aprender e aprimorar conceitos de <b>testes, TDD e DDD</b>, através do jogo Truco.
+<br> 📚 <a href="https://github.com/BrenoAissa/Jogo-da-velha">Jogo da velha</a> - O famoso jogo da velha criado em <b>JavaScript</b> para aprendizado na linguagem.
+<br> 📚 <a href="https://github.com/BrenoAissa/API-Auction">API Auction</a> - API em <b>C#</b> com o objetivo de criar um leilão com itens de usuários e oferta para eles.
+<br> 📚 <a href="https://github.com/BrenoAissa/instagram">Instagram</a> - Landing page da página de login do instagram com o intuito de brincar com <b>CSS</b>
+<br> 📚 <a href="https://github.com/BrenoAissa/Flex_Turismo">Flex turismo</a> - Landing page com o intuito de aprender sobre o layout flexbox em <b>CSS</b> </p> 
+
+###
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=brenoaissa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoaissa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"/>
+</div>
+
+###
