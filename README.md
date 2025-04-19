@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Fala aí! Meu nome é breno, sou desenvolvedor full stack, tenho 23 anos e atualmente estou no 5º período de Análise e Desenvolvimento de Sistemas. Estou no mercado há 2 anos e sou completamente apaixonado por programar.<br><br>Comecei na programação porque sempre quis trabalhar com algo que realmente fizesse a diferença. Meu objetivo é usar a tecnologia para ajudar pessoas, torná-la acessível a todos e transformar o mundo em um lugar melhor através dela — levando o caminho, a verdade e a vida por meio dos meus códigos. 🚀</p>
+<p align="left">👨‍💻 Fala aí! Meu nome é breno, sou desenvolvedor full stack, tenho 23 anos e atualmente estou no 5º período de Análise e Desenvolvimento de Sistemas. Estou no mercado há 2 anos e sou completamente apaixonado por programação.<br><br>Comecei na programação porque sempre quis trabalhar com algo que realmente fizesse a diferença. Meu objetivo é usar a tecnologia para ajudar pessoas, torná-la acessível a todos e transformar o mundo em um lugar melhor através dela — levando o caminho, a verdade e a vida por meio dos meus códigos. 🚀</p>
 
 ###
 
